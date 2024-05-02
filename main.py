@@ -3,8 +3,8 @@ import pygame
 pygame.init()
 
 #music
-#pygame.mixer.music.load('videoplayback (1).m4a')
-#pygame.mixer.music.play(-1)
+pygame.mixer.music.load('1.mp3')
+pygame.mixer.music.play(-1)
 
 
 # Font that is used to render the text
